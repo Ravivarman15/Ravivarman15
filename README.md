@@ -1,181 +1,208 @@
-<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ravivarman%20R&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20Agentic%20AI&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Ravivarman%20R&fontSize=44&fontColor=ffffff&fontAlignY=33&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descSize=15&descColor=a8b2d1&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;RAG+%7C+AutoML+%7C+Multi-Agent+AI+%7C+Predictive+Modeling;Datathon+Winner+%7C+End-to-End+ML+Pipelines+%7C+9.0+CGPA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=75&lines=%F0%9F%8F%86+Datathon+Winner+%7C+Production+AI+Systems+%7C+RAG+%7C+AutoML;End-to-End+ML+Pipelines+%7C+Multi-Agent+AI+%7C+9.0+CGPA)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Badges -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ravivarman-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://ravivarmanportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarman-r-b9407527a)
-[![Email](https://img.shields.io/badge/Email-arravi1015-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arravi1015@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ravivarman15-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5e60ce?style=for-the-badge&logo=vercel&logoColor=white)](https://ravivarmanportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarman-r-b9407527a)
+[![Gmail](https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arravi1015@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15)
 
 </div>
 
 <br/>
 
-<!-- About Section -->
-## About
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-MCA (Data Science) graduate with hands-on experience building end-to-end AI systems — from multi-agent AutoML platforms to production RAG chatbots handling live user traffic. **Datathon Winner** with demonstrated ability to transform data into deployed, scalable applications.
+<br/>
 
-Currently working as a **Data Science & Generative AI Intern at ARK Learning Arena**, where I build RAG-based WhatsApp automation systems and AI-powered knowledge retrieval solutions. My projects have reduced manual data science effort by ~70% and improved chatbot response efficiency by ~60%.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-I work primarily with **Python**, **FastAPI**, **LangChain**, **PyCaret**, **ChromaDB**, and **Supabase**, with growing expertise in **Agentic AI**, **Vector Databases**, and **LLMOps**.
+<img align="right" src="https://img.shields.io/badge/CGPA-9.0%2F10.0-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+<img align="right" src="https://img.shields.io/badge/🏆-Datathon_Winner-f59e0b?style=for-the-badge&labelColor=1a1b27" />
+
+MCA (Data Science) graduate building end-to-end AI systems — from **multi-agent AutoML platforms** to **production RAG chatbots** handling live user traffic. My projects have **reduced manual effort by ~70%** and **improved response efficiency by ~60%**.
+
+Currently working as a **Data Science & Generative AI Intern** at **ARK Learning Arena**, building RAG-based WhatsApp automation and AI-powered knowledge retrieval systems.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**`Python`** · **`Scikit-learn`** · **`LangChain`** · **`PyCaret`** · **`FastAPI`** · **`ChromaDB`** · **`Power BI`** · **`XGBoost`** · **`Streamlit`**
 
 </div>
 
 <br/>
 
-<!-- Tech Stack -->
-## Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**Languages & Core**
-```
-Python         ████████████████████  Primary
-SQL            ████████████████░░░░  Proficient
-```
-
-**Machine Learning & Data Science**
-```
-Scikit-learn   ████████████████████  Advanced
-PyCaret        ████████████████████  Advanced
-XGBoost        ████████████████████  Advanced
-TensorFlow     ████████████████░░░░  Proficient
-```
-
-**Statistics & Analysis**
-```
-Hypothesis Testing  ████████████████  Proficient
-Inferential Stats   ████████████████  Proficient
-Time Series         ██████████████░░  Proficient
-Probability         ████████████████  Proficient
-```
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<br><b>Python</b>
 </td>
-<td width="50%" valign="top">
-
-**Generative AI & LLMs**
-```
-LangChain      ████████████████████  Advanced
-RAG Pipelines  ████████████████████  Advanced
-ChromaDB       ████████████████████  Advanced
-Hugging Face   ████████████████░░░░  Proficient
-Agentic AI     ██████████████░░░░░░  Building
-Prompt Eng.    ████████████████░░░░  Proficient
-```
-
-**Backend & Deployment**
-```
-FastAPI        ████████████████████  Advanced
-Flask          ████████████████████  Advanced
-Streamlit      ████████████████████  Advanced
-REST APIs      ████████████████████  Advanced
-Supabase       ████████████████░░░░  Proficient
-```
-
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+<br><b>Flask</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br><b>Scikit-learn</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><b>Pandas</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br><b>NumPy</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+<br><b>SQLite</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="96">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" />
+<br><b>Streamlit</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+<br><b>GitHub</b>
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![PyCaret](https://img.shields.io/badge/PyCaret-1E88E5?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+</div>
+
+<br/>
+
 <details>
-<summary><b>Full Technology Map</b></summary>
+<summary><b>&nbsp;Full Skills Breakdown</b></summary>
 <br/>
 
 | Category | Technologies |
 |:---|:---|
 | **Programming** | Python, SQL |
 | **ML & Data Science** | Supervised/Unsupervised Learning, Regression, Classification, Clustering, Feature Engineering, Hyperparameter Tuning, Predictive Modeling, PCA, Cross Validation |
-| **Libraries** | Scikit-learn, PyCaret, TensorFlow, XGBoost, Pandas, NumPy, Matplotlib, Seaborn |
 | **Generative AI** | LangChain, RAG, LLMs, Hugging Face, Transformers, Embeddings, Semantic Search, Prompt Engineering, Agentic AI |
 | **Vector Databases** | ChromaDB, Pinecone, Vector Embeddings, Similarity Search, ANN Retrieval |
 | **Statistics** | Probability, Descriptive & Inferential Statistics, Hypothesis Testing, Time Series Forecasting |
 | **Backend & APIs** | FastAPI, Flask, Streamlit, REST APIs, AI Model Integration |
 | **Databases** | MySQL, SQLite, Supabase |
-| **Visualization & BI** | Power BI, Dashboard Development, KPI Reporting, EDA & Business Insights |
+| **Visualization** | Power BI, Matplotlib, Seaborn, Dashboard Development, KPI Reporting |
 | **Automation** | Zapier, AiSensy API |
-| **Cloud & Tools** | IBM Cloud, Git, GitHub, Jupyter Notebook, Google Colab, Docker (learning) |
+| **Cloud & Tools** | IBM Cloud, Git, GitHub, Jupyter, Google Colab, Docker (learning) |
 
 </details>
 
 <br/>
 
-<!-- Data Science Expertise -->
-## Data Science Expertise
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Data Science Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Methodology & Process
+### 📊 Methodology
+
 ```
-┌─────────────────────────────────┐
-│  1. Problem Definition          │
-│  2. Data Collection & Cleaning  │
-│  3. Exploratory Data Analysis   │
-│  4. Feature Engineering         │
-│  5. Model Selection & Training  │
-│  6. Evaluation & Tuning         │
-│  7. Deployment & Monitoring     │
-└─────────────────────────────────┘
+┌─────────────────────────────────────┐
+│  ① Problem Definition & Scoping    │
+│  ② Data Collection & Cleaning      │
+│  ③ Exploratory Data Analysis       │
+│  ④ Feature Engineering             │
+│  ⑤ Model Selection & Training      │
+│  ⑥ Evaluation & Hyperparameter     │
+│  ⑦ Deployment & Monitoring         │
+└─────────────────────────────────────┘
 ```
 
-**Statistical Analysis**
-- Descriptive & Inferential Statistics
+#### Statistical Methods
 - Hypothesis Testing (t-test, chi-square, ANOVA)
-- Probability Distributions
-- Confidence Intervals & p-values
+- Probability Distributions & Confidence Intervals
 - Correlation & Regression Analysis
+- Descriptive & Inferential Statistics
 - Time Series Forecasting
 
 </td>
 <td width="50%" valign="top">
 
-### ML Techniques
+### 🤖 ML Algorithms
 
-| Type | Algorithms |
+| Type | Techniques |
 |:---|:---|
 | **Supervised** | Linear/Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM |
 | **Unsupervised** | K-Means, Hierarchical Clustering, PCA, DBSCAN |
-| **Evaluation** | Accuracy, F1-Score, Precision, Recall, AUC-ROC, RMSE, MAE |
-| **Optimization** | Hyperparameter Tuning, Cross Validation, Grid/Random Search |
-| **AutoML** | PyCaret (end-to-end automated model comparison & selection) |
+| **Evaluation** | F1-Score, Precision, Recall, AUC-ROC, RMSE, MAE |
+| **Optimization** | Grid/Random Search, Cross Validation |
+| **AutoML** | PyCaret (automated model comparison) |
 
-### Data Engineering
+#### Data Engineering
 - Missing value imputation & outlier detection
 - Feature encoding (One-Hot, Label, Target)
-- Feature scaling & normalization
-- Dimensionality reduction (PCA)
-- Data pipeline design & automation
+- Feature scaling, normalization & PCA
+- Data pipeline automation
 - EDA with Pandas, Matplotlib, Seaborn
 
 </td>
@@ -183,177 +210,211 @@ Supabase       ████████████████░░░░  Pro
 </table>
 
 <details>
-<summary><b>Domain Experience</b></summary>
+<summary><b>&nbsp;Domain Experience</b></summary>
 <br/>
 
 | Domain | What I Built | Key Metrics |
 |:---|:---|:---|
-| **Finance** | Loan approval prediction, financial risk scoring, cash flow forecasting | 1st Place Datathon, XGBoost classifier |
-| **Healthcare** | Heart disease & diabetes prediction, medicine recommendation engine | Multi-model Flask platform |
-| **Retail** | Sales forecasting, demand prediction, revenue analytics | Time series, Power BI dashboards |
-| **Weather** | Rainfall prediction using meteorological data (Kaggle) | Binary classification, feature engineering |
-| **Business Intelligence** | Multi-country sales dashboards, KPI reporting, trend analysis | Power BI, DAX, real-time insights |
-| **Conversational AI** | RAG chatbot, knowledge retrieval, automated FAQ systems | <2s response, 3-language support |
+| **Finance** | Loan prediction, risk scoring, cash flow forecasting | 🏆 1st Place Datathon |
+| **Healthcare** | Heart disease & diabetes prediction, medicine engine | Multi-model platform |
+| **Retail** | Sales forecasting, demand prediction, revenue analytics | Power BI dashboards |
+| **Weather** | Rainfall prediction (Kaggle) | Binary classification |
+| **Business Intelligence** | Multi-country dashboards, KPI reporting | Power BI, DAX |
+| **Conversational AI** | RAG chatbot, knowledge retrieval | <2s, 3-language |
 
 </details>
 
 <br/>
 
-<!-- Flagship Project -->
-## Flagship Project
-
-### AgentIQ AI — Multi-Agent AI Data Science Platform
-
-> **Enterprise-ready platform that automates the entire data science pipeline — reducing manual effort by ~70%.**
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-A multi-agent AI platform that automates dataset profiling, intelligent feature selection, AutoML model generation, visualization, and report creation. Built a **RAG system using LangChain and ChromaDB** for semantic search and natural language querying over datasets.
-
-**Key Impact:**
-- ~70% reduction in manual data science effort
-- Automated PDF/PPT report generation
-- Semantic search over uploaded datasets
-- Multi-model comparison via PyCaret AutoML
-
-</td>
-<td width="40%" valign="top">
-
-**Architecture**
-```
-User Upload → Dataset Profiling
-     ↓
-Feature Selection → AutoML
-     ↓
-Model Comparison → Best Model
-     ↓
-RAG Chat ← LangChain + ChromaDB
-     ↓
-Reports (PDF/PPT) + Dashboards
-```
-
-</td>
-</tr>
-</table>
-
-| | |
-|:---|:---|
-| **Stack** | `Python` `FastAPI` `PyCaret` `LangChain` `ChromaDB` `RAG` `HuggingFace` `Supabase` `SQLite` `REST APIs` |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-agentiqai.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://agentiqai.vercel.app/)
-[![Repository](https://img.shields.io/badge/Source_Code-AgentIQ--AI-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15/AgentIQ-AI)
-
----
-
-<details>
-<summary><h3>View All Projects →</h3></summary>
-<br/>
-
-#### ARK AI Bot — Production RAG WhatsApp Automation `DEPLOYED`
-
-> Built at ARK Learning Arena. Live 24/7 chatbot automating admissions via WhatsApp.
-
-| | |
-|:---|:---|
-| **What** | RAG-based WhatsApp chatbot with lead management pipeline |
-| **Impact** | ~60% improved response efficiency, ~70% reduced latency (<2s), 3-language support |
-| **How** | Migrated vector-based RAG → page-index retrieval. AiSensy API + Zapier automation |
-| **Stack** | `Python` `Flask` `FastAPI` `RAG` `LLM` `Supabase` `Zapier` |
-
-[![Try It](https://img.shields.io/badge/Try_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918062962717?text=Tell%20me%20about%20Ark%20Learning%20Arena)
-
----
-
-#### Loan Prediction System — 🏆 Datathon Winner (1st Place) `DEPLOYED`
-
-> TransOrg Analytics Datathon. Multi-page Streamlit app with real-time prediction + Power BI dashboards.
-
-| | |
-|:---|:---|
-| **What** | End-to-end ML pipeline: preprocessing → feature engineering → multi-algorithm comparison → deployment |
-| **Models** | Random Forest, Decision Tree, XGBoost |
-| **Recognition** | **1st Place — TransOrg Analytics Datathon** |
-| **Stack** | `Python` `Scikit-learn` `XGBoost` `Streamlit` `Power BI` |
-
----
-
-#### Finx AI — Financial Intelligence System
-
-> ML-powered finance analytics: cash flow prediction, risk scoring, anomaly detection.
-
-| | |
-|:---|:---|
-| **What** | Income/expense analysis → future predictions → risk scores → optimization recommendations |
-| **Stack** | `Python` `Flask` `XGBoost` `MySQL` `Matplotlib` |
-
----
-
-#### AI-Powered Hospital Platform
-
-> Healthcare platform with 3 integrated ML models: heart disease, diabetes prediction, medicine suggestions.
-
-| | |
-|:---|:---|
-| **Stack** | `Python` `Flask` `Scikit-learn` `HTML/CSS/JS` |
-
----
-
-#### Other Projects
-
-| Project | Domain | Tech |
-|:---|:---|:---|
-| **Heart Disease Prediction** | Healthcare | Python, Flask, Scikit-learn |
-| **Roosman Sales Prediction** | Retail | Python, Flask, Scikit-learn |
-| **Australia Weather Prediction** | Kaggle | Python, Scikit-learn, Pandas |
-| **Sales Performance Dashboard** | Business Intelligence | Power BI, DAX, Excel |
-| **Live Weather Dashboard** | Weather Analytics | Python, Power BI, APIs |
-
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Why Hire Me -->
-## Why Hire Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Flagship Project
+
+<div align="center">
+
+### `AgentIQ AI` — Multi-Agent Data Science Platform
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-agentiqai.vercel.app-a78bfa?style=for-the-badge&labelColor=1a1b27)](https://agentiqai.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&labelColor=1a1b27)](https://github.com/Ravivarman15/AgentIQ-AI)
+
+</div>
+
+> **Enterprise-ready platform automating the entire data science pipeline — reducing manual effort by ~70%**
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-```
-Most fresh graduates build Jupyter notebook projects.
-I build deployed applications that handle real users.
-```
+#### What It Does
+Upload any dataset and the platform automatically:
 
-| What I Do | Evidence |
-|:---|:---|
-| **Win competitions** | **1st Place — TransOrg Analytics Datathon** |
-| **Build production AI** | ARK AI Bot — ~60% efficiency, ~70% latency reduction |
-| **End-to-end ML pipelines** | AgentIQ AI — ~70% effort reduction via AutoML |
-| **RAG systems** | Vector-based & vector-less RAG with LangChain |
-| **Data-driven decisions** | Power BI dashboards, KPI reporting, EDA |
-| **Statistical modeling** | Hypothesis testing, predictive modeling, feature engineering |
-| **API development** | FastAPI/Flask backends powering production systems |
-| **Deploy & scale** | Render, Vercel, Streamlit deployments |
+- 📊 **Profiles** your data with statistical summaries
+- 🧠 **Selects features** intelligently using ML techniques
+- ⚡ **Trains & compares** multiple models via PyCaret AutoML
+- 💬 **Answers questions** about your data using RAG + LangChain
+- 📄 **Generates reports** (PDF/PPT) with insights & visualizations
+
+#### Impact
+```diff
++ ~70% reduction in manual data science effort
++ Automated multi-model comparison & selection
++ Natural language querying over any dataset
++ Professional report generation in minutes
+```
 
 </td>
 <td width="45%" valign="top">
 
-### At a Glance
-
-```text
-🏆 Datathon Winner (1st Place)
-📊 9.0 CGPA — MCA Data Science
-🤖 3 Production AI Systems Deployed
-📈 8+ ML Models Built & Evaluated
-🔬 6 Industry Domains Covered
-💬 RAG Chatbot — 24/7 Live Users
-📉 ~70% Manual Effort Reduction
-⚡ <2s Response Time (Optimized RAG)
-🌐 3-Language NLP Support
-📋 5+ Certifications (AI/ML/Cloud)
+#### Architecture
 ```
+         ┌──────────────┐
+         │  User Upload  │
+         └──────┬───────┘
+                ↓
+    ┌───────────────────────┐
+    │  Dataset Profiling    │
+    │  + Feature Selection  │
+    └───────────┬───────────┘
+                ↓
+    ┌───────────────────────┐
+    │  PyCaret AutoML       │
+    │  Model Comparison     │
+    │  Best Model Selection │
+    └───────────┬───────────┘
+                ↓
+    ┌───────────────────────┐
+    │  LangChain + ChromaDB │
+    │  RAG Chat Interface   │
+    └───────────┬───────────┘
+                ↓
+    ┌───────────────────────┐
+    │  Reports & Dashboards │
+    └───────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`Python` `FastAPI` `PyCaret` `LangChain` `ChromaDB` `RAG` `HuggingFace` `Supabase` `SQLite` `REST APIs`
+
+</div>
+
+---
+
+<details>
+<summary><h3>&nbsp;📁 View All Projects →</h3></summary>
+<br/>
+
+#### ARK AI Bot — Production RAG WhatsApp Chatbot &nbsp; `🟢 LIVE`
+
+> Built at ARK Learning Arena — live 24/7 chatbot automating admissions via WhatsApp.
+
+| | |
+|:---|:---|
+| **Impact** | ~60% improved response efficiency · ~70% reduced latency (<2s) · 3 languages |
+| **How** | Migrated vector-based RAG → page-index retrieval · AiSensy API + Zapier automation |
+| **Stack** | `Python` `Flask` `FastAPI` `RAG` `LLM` `Supabase` `Zapier` |
+
+[![Try on WhatsApp](https://img.shields.io/badge/Try_It-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918062962717?text=Tell%20me%20about%20Ark%20Learning%20Arena)
+
+---
+
+#### Loan Prediction System &nbsp; `🏆 1ST PLACE`
+
+> TransOrg Analytics Datathon Winner. Multi-page Streamlit app + Power BI dashboards.
+
+| | |
+|:---|:---|
+| **Pipeline** | Preprocessing → Feature Engineering → Multi-Algorithm Comparison → Deployment |
+| **Models** | Random Forest · Decision Tree · XGBoost |
+| **Stack** | `Python` `Scikit-learn` `XGBoost` `Streamlit` `Power BI` |
+
+---
+
+#### Finx AI — Financial Intelligence
+
+> Cash flow prediction, risk scoring, anomaly detection for businesses.
+
+| **Stack** | `Python` `Flask` `XGBoost` `MySQL` `Matplotlib` |
+|:---|:---|
+
+---
+
+#### AI Hospital Platform
+
+> 3 ML models: heart disease prediction, diabetes prediction, medicine suggestions.
+
+| **Stack** | `Python` `Flask` `Scikit-learn` `HTML/CSS/JS` |
+|:---|:---|
+
+---
+
+| Project | Domain | Tech |
+|:---|:---|:---|
+| **Heart Disease Prediction** | Healthcare | Scikit-learn, Flask |
+| **Roosman Sales Prediction** | Retail | Scikit-learn, Flask |
+| **Australia Weather Prediction** | Kaggle | Scikit-learn, Pandas |
+| **Sales Dashboard** | BI | Power BI, DAX |
+| **Live Weather Dashboard** | Analytics | Power BI, APIs |
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Why Hire Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```
+Most graduates build notebooks.
+I build deployed systems that handle real users.
+```
+
+| Capability | Proof |
+|:---|:---|
+| 🏆 **Win competitions** | 1st Place — TransOrg Datathon |
+| 🚀 **Production AI** | ARK Bot — ~60% efficiency, ~70% latency ↓ |
+| 🔬 **End-to-end ML** | AgentIQ — ~70% effort reduction |
+| 🧠 **RAG systems** | Vector & vector-less RAG with LangChain |
+| 📊 **Data-driven insights** | Power BI dashboards, KPI, EDA |
+| 📐 **Statistical modeling** | Hypothesis testing, predictive models |
+| ⚙️ **API development** | FastAPI/Flask production backends |
+| ☁️ **Deploy & scale** | Render, Vercel, Streamlit |
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+### Quick Stats
+
+```
+ ┌────────────────────────────────┐
+ │  🏆  Datathon Winner (1st)     │
+ │  📊  9.0 CGPA — MCA Data Sci   │
+ │  🤖  3 Production AI Systems   │
+ │  📈  8+ ML Models Deployed     │
+ │  🔬  6 Industry Domains        │
+ │  💬  RAG Bot — 24/7 Live       │
+ │  📉  ~70% Effort Reduction     │
+ │  ⚡  <2s Response Time          │
+ │  🌐  3-Language NLP            │
+ │  📋  5+ Certifications         │
+ └────────────────────────────────┘
+```
+
+</div>
 
 </td>
 </tr>
@@ -361,75 +422,108 @@ I build deployed applications that handle real users.
 
 <br/>
 
-<!-- Experience -->
-## Experience
-
-**Data Science & Generative AI Intern** — ARK Learning Arena `Feb 2026 – Present`
-- Developing AI-powered automation solutions using Machine Learning and Generative AI for production business use cases.
-- Built RAG-based WhatsApp chatbot systems for automated knowledge retrieval and FAQ answering, improving response efficiency by ~60%.
-- Optimized RAG architecture from vector-based to page-index retrieval, reducing response latency by ~70%.
-
-**AI & Cloud Engineering Intern** — IBM SkillBuild `Jul – Aug 2025`
-- Implemented machine learning algorithms using IBM Cloud services. Gained hands-on experience with classification, regression, and clustering.
-- Deployed ML models using IBM Watson Studio and AutoAI tools.
-
----
-
-## Education
-
-| Degree | Institution | Year | CGPA |
-|:---|:---|:---|:---|
-| **MCA (Data Science)** | Takshashila University | 2024 – 2026 | **9.0 / 10.0** |
-| **B.Com (Computer Application)** | Sri Malolan College of Arts & Science | 2021 – 2024 | **7.8 / 10.0** |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Achievements -->
-## Achievements
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Experience & Education
 
-- **1st Place Winner — TransOrg Analytics Datathon** — Built a scalable Loan Prediction ML system beating competing teams
-- Deployed **AgentIQ AI** — enterprise-ready multi-agent AutoML + RAG platform at [agentiqai.vercel.app](https://agentiqai.vercel.app/)
-- Built and deployed **ARK AI Bot** — production WhatsApp chatbot handling real user conversations 24/7 with ~60% efficiency improvement
-- Completed **Data Science & Machine Learning** certification — Intellipaat
-- Completed **GenAI-Powered Data Analytics** — TATA
-- Completed **IBM SkillBuild AI & Cloud** internship with Watson Studio and AutoAI deployment
-- Earned certifications in **Python, AI, Cloud Computing, Data Visualization, Quantum Computing**
-- Built **8+ ML models** across healthcare, finance, sales, and weather prediction domains
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+**Data Science & GenAI Intern**
+*ARK Learning Arena* · `Feb 2026 – Present`
+- Built RAG-based WhatsApp chatbots for knowledge retrieval
+- ~60% improved response efficiency, ~70% reduced latency
+- Production ML + Generative AI solutions
+
+**AI & Cloud Intern**
+*IBM SkillBuild* · `Jul – Aug 2025`
+- ML algorithms on IBM Cloud
+- Watson Studio & AutoAI deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+| | |
+|:---|:---|
+| **MCA (Data Science)** | Takshashila University |
+| *2024 – 2026* | **CGPA: 9.0 / 10.0** |
+| | |
+| **B.Com (Computer App)** | Sri Malolan College |
+| *2021 – 2024* | **CGPA: 7.8 / 10.0** |
+
+### 🏅 Certifications
+- Data Science & ML — *Intellipaat*
+- GenAI Powered Analytics — *TATA*
+- AI & Cloud — *IBM SkillBuild*
+- Python, Data Viz, Quantum Computing
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- GitHub Stats -->
-## GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Achievements
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravivarman15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarman15&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravivarman15&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravivarman15&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" />
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ravivarman15&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+![Datathon](https://img.shields.io/badge/🏆_1st_Place-TransOrg_Datathon-f59e0b?style=for-the-badge&labelColor=1a1b27)
+![AgentIQ](https://img.shields.io/badge/🚀_Deployed-AgentIQ_AI-a78bfa?style=for-the-badge&labelColor=1a1b27)
+![ARK Bot](https://img.shields.io/badge/🤖_Live-ARK_WhatsApp_Bot-25D366?style=for-the-badge&labelColor=1a1b27)
+![Models](https://img.shields.io/badge/📈_Built-8%2B_ML_Models-3b82f6?style=for-the-badge&labelColor=1a1b27)
+![Domains](https://img.shields.io/badge/🔬_Covered-6_Domains-ec4899?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
 <br/>
 
-<!-- Currently Learning -->
-## Currently Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravivarman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravivarman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravivarman15&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b27&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravivarman15&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=302b63" />
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ravivarman15&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Currently Learning
+
+<div align="center">
 
 <table>
 <tr>
@@ -452,7 +546,6 @@ LangGraph      █████████░░░░░░░░░░░  In 
 Agentic AI     █████████░░░░░░░░░░░  In Progress
 Azure AI       ██████░░░░░░░░░░░░░░  Getting Started
 AWS SageMaker  █████░░░░░░░░░░░░░░░  Planned
-Vector DBs     ████████████████░░░░  Proficient
 Adv. NLP       ████████████░░░░░░░░  In Progress
 ```
 
@@ -460,16 +553,19 @@ Adv. NLP       ████████████░░░░░░░░  In 
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-<!-- 2026 Roadmap -->
-## 2026 Career Roadmap
+<details>
+<summary><b>&nbsp;2026 Career Roadmap</b></summary>
+<br/>
 
 ```mermaid
 graph LR
-    A["Current Position"] --> B["Q3 2026"]
+    A["Current"] --> B["Q3 2026"]
     B --> C["Q4 2026"]
-    C --> D["2027 Target"]
+    C --> D["2027"]
 
     A --- A1["Python, FastAPI, RAG"]
     A --- A2["PyCaret, Scikit-learn"]
@@ -480,80 +576,54 @@ graph LR
     B --- B3["Advanced LLM Patterns"]
 
     C --- C1["Kubernetes"]
-    C --- C2["Azure/AWS AI Services"]
-    C --- C3["Open Source Contributions"]
+    C --- C2["Azure/AWS AI"]
+    C --- C3["Open Source"]
 
-    D --- D1["AI Engineer Role"]
-    D --- D2["ML Engineer Role"]
-    D --- D3["GenAI Engineer Role"]
+    D --- D1["AI Engineer"]
+    D --- D2["ML Engineer"]
+    D --- D3["Data Scientist"]
 
-    style A fill:#161b22,stroke:#58a6ff,color:#e6edf3
-    style B fill:#161b22,stroke:#58a6ff,color:#e6edf3
-    style C fill:#161b22,stroke:#58a6ff,color:#e6edf3
-    style D fill:#161b22,stroke:#1f6feb,color:#e6edf3
+    style A fill:#302b63,stroke:#a78bfa,color:#fff
+    style B fill:#302b63,stroke:#a78bfa,color:#fff
+    style C fill:#302b63,stroke:#a78bfa,color:#fff
+    style D fill:#24243e,stroke:#f59e0b,color:#fff
+```
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Philosophy
+
+```
+① Build real applications, not just notebooks.
+② Every model should have an API. Every API should be deployed.
+③ Write code that another engineer can read and extend.
+④ Learn by shipping — production teaches what tutorials can't.
+⑤ AI should solve problems people actually have.
 ```
 
 <br/>
 
-<!-- Philosophy -->
-## Development Philosophy
-
-```
-1. Build real applications, not just notebooks.
-2. Every model should have an API. Every API should be deployed.
-3. Write code that another engineer can read and extend.
-4. Learn by shipping — production teaches what tutorials can't.
-5. AI should solve problems people actually have.
-```
-
-<br/>
-
-<!-- Open Source -->
-## Open Source
-
-Currently focused on building a strong foundation in production AI engineering. My near-term open source goals:
-
-- Contributing to **LangChain** and **PyCaret** ecosystems
-- Publishing reusable **RAG pipeline templates**
-- Sharing **FastAPI + ML deployment patterns**
-- Building tools that help other engineers ship AI faster
-
-<br/>
-
-<!-- Fun Facts -->
-## A Few Things
-
-- I've optimized a RAG system to respond in under 2 seconds without vector databases — a ~70% latency reduction
-- My WhatsApp bot handles conversations in 3 languages: English, Tamil, and Thanglish
-- I won my first datathon by building a production-grade ML system, not just a notebook
-- I went from B.Com to MCA Data Science (9.0 CGPA) because I wanted to build, not just analyze
-- I believe the best way to learn AI is to deploy it where real users can break it
-
-<br/>
-
-<!-- Contact -->
-## Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ravivarmanportfolio.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://ravivarmanportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravivarman--r-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarman-r-b9407527a)
-[![GitHub](https://img.shields.io/badge/GitHub-Ravivarman15-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15)
-[![Email](https://img.shields.io/badge/Email-arravi1015@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arravi1015@gmail.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/-ravivarmanportfolio.vercel.app-5e60ce?style=for-the-badge&logo=vercel&logoColor=white)](https://ravivarmanportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-Ravivarman_R-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarman-r-b9407527a)
+[![GitHub](https://img.shields.io/badge/-Ravivarman15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15)
+[![Email](https://img.shields.io/badge/-arravi1015@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arravi1015@gmail.com)
 
 <br/>
 
-<!-- Footer -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<br/>
 
-</div>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ravivarman15&color=1f6feb&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=Ravivarman15&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
