@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Production-Ready+AI+Systems;RAG+%7C+AutoML+%7C+Multi-Agent+AI+%7C+LLM+Applications;Datathon+Winner+%7C+End-to-End+ML+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Data+Scientist+%7C+AI+Engineer+%7C+ML+Engineer;RAG+%7C+AutoML+%7C+Multi-Agent+AI+%7C+Predictive+Modeling;Datathon+Winner+%7C+End-to-End+ML+Pipelines+%7C+9.0+CGPA)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,6 +32,23 @@ MCA (Data Science) graduate with hands-on experience building end-to-end AI syst
 Currently working as a **Data Science & Generative AI Intern at ARK Learning Arena**, where I build RAG-based WhatsApp automation systems and AI-powered knowledge retrieval solutions. My projects have reduced manual data science effort by ~70% and improved chatbot response efficiency by ~60%.
 
 I work primarily with **Python**, **FastAPI**, **LangChain**, **PyCaret**, **ChromaDB**, and **Supabase**, with growing expertise in **Agentic AI**, **Vector Databases**, and **LLMOps**.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 <br/>
 
@@ -112,115 +129,186 @@ Supabase       ████████████████░░░░  Pro
 
 <br/>
 
-<!-- Featured Projects -->
-## Featured Projects
+<!-- Data Science Expertise -->
+## Data Science Expertise
 
-> Projects selected for technical depth, real-world deployment, and business impact.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Methodology & Process
+```
+┌─────────────────────────────────┐
+│  1. Problem Definition          │
+│  2. Data Collection & Cleaning  │
+│  3. Exploratory Data Analysis   │
+│  4. Feature Engineering         │
+│  5. Model Selection & Training  │
+│  6. Evaluation & Tuning         │
+│  7. Deployment & Monitoring     │
+└─────────────────────────────────┘
+```
+
+**Statistical Analysis**
+- Descriptive & Inferential Statistics
+- Hypothesis Testing (t-test, chi-square, ANOVA)
+- Probability Distributions
+- Confidence Intervals & p-values
+- Correlation & Regression Analysis
+- Time Series Forecasting
+
+</td>
+<td width="50%" valign="top">
+
+### ML Techniques
+
+| Type | Algorithms |
+|:---|:---|
+| **Supervised** | Linear/Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM |
+| **Unsupervised** | K-Means, Hierarchical Clustering, PCA, DBSCAN |
+| **Evaluation** | Accuracy, F1-Score, Precision, Recall, AUC-ROC, RMSE, MAE |
+| **Optimization** | Hyperparameter Tuning, Cross Validation, Grid/Random Search |
+| **AutoML** | PyCaret (end-to-end automated model comparison & selection) |
+
+### Data Engineering
+- Missing value imputation & outlier detection
+- Feature encoding (One-Hot, Label, Target)
+- Feature scaling & normalization
+- Dimensionality reduction (PCA)
+- Data pipeline design & automation
+- EDA with Pandas, Matplotlib, Seaborn
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Domain Experience</b></summary>
+<br/>
+
+| Domain | What I Built | Key Metrics |
+|:---|:---|:---|
+| **Finance** | Loan approval prediction, financial risk scoring, cash flow forecasting | 1st Place Datathon, XGBoost classifier |
+| **Healthcare** | Heart disease & diabetes prediction, medicine recommendation engine | Multi-model Flask platform |
+| **Retail** | Sales forecasting, demand prediction, revenue analytics | Time series, Power BI dashboards |
+| **Weather** | Rainfall prediction using meteorological data (Kaggle) | Binary classification, feature engineering |
+| **Business Intelligence** | Multi-country sales dashboards, KPI reporting, trend analysis | Power BI, DAX, real-time insights |
+| **Conversational AI** | RAG chatbot, knowledge retrieval, automated FAQ systems | <2s response, 3-language support |
+
+</details>
+
+<br/>
+
+<!-- Flagship Project -->
+## Flagship Project
 
 ### AgentIQ AI — Multi-Agent AI Data Science Platform
 
 > **Enterprise-ready platform that automates the entire data science pipeline — reducing manual effort by ~70%.**
 
-A multi-agent AI platform where users upload datasets and the system automatically performs dataset profiling, intelligent feature selection, AutoML model generation, interactive visualization, and professional report creation. Built a **RAG system using LangChain and ChromaDB** enabling semantic search and natural language querying over datasets. The PyCaret-powered AutoML engine automates preprocessing, model comparison, and performance evaluation.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Why it matters:** Non-technical users can perform end-to-end data science without writing code. Optimized embedding retrieval strategies and prompt design ensure fast response times and high answer relevance. Generates automated PDF/PPT reports with bivariate/multivariate analysis and feature correlation insights.
+A multi-agent AI platform that automates dataset profiling, intelligent feature selection, AutoML model generation, visualization, and report creation. Built a **RAG system using LangChain and ChromaDB** for semantic search and natural language querying over datasets.
+
+**Key Impact:**
+- ~70% reduction in manual data science effort
+- Automated PDF/PPT report generation
+- Semantic search over uploaded datasets
+- Multi-model comparison via PyCaret AutoML
+
+</td>
+<td width="40%" valign="top">
+
+**Architecture**
+```
+User Upload → Dataset Profiling
+     ↓
+Feature Selection → AutoML
+     ↓
+Model Comparison → Best Model
+     ↓
+RAG Chat ← LangChain + ChromaDB
+     ↓
+Reports (PDF/PPT) + Dashboards
+```
+
+</td>
+</tr>
+</table>
 
 | | |
 |:---|:---|
-| **Architecture** | FastAPI backend, React/Next.js frontend, PyCaret AutoML, LangChain + ChromaDB RAG, SQLite |
-| **Key Engineering** | Multi-agent pipeline, intelligent feature selection, semantic search over datasets, embedding retrieval optimization, automated report generation |
-| **Impact** | ~70% reduction in manual data science effort |
 | **Stack** | `Python` `FastAPI` `PyCaret` `LangChain` `ChromaDB` `RAG` `HuggingFace` `Supabase` `SQLite` `REST APIs` |
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-agentiqai.vercel.app-1f6feb?style=flat-square&logo=vercel)](https://agentiqai.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-AgentIQ--AI-161b22?style=flat-square&logo=github)](https://github.com/Ravivarman15/AgentIQ-AI)
-
----
-
-### ARK AI Bot — Production RAG-Based WhatsApp Automation
-
-> **Live conversational AI system automating admissions — improved response efficiency by ~60%, response latency reduced by ~70%.**
-
-Production-grade WhatsApp chatbot built with RAG architecture at **ARK Learning Arena** that handles real user conversations, automates lead qualification, and escalates high-intent prospects. Initially implemented vector-based RAG, then **optimized to page-index (vector-less) retrieval**, cutting response latency by ~70% to under 2 seconds. Integrated with AiSensy WhatsApp API for real-time bidirectional messaging and Zapier for workflow automation.
-
-**Why it matters:** Multi-step lead management pipeline (qualification → escalation → hot lead detection) improved response efficiency by ~60%. The bot serves real users 24/7 in 3 languages (English, Tamil, Thanglish), logs leads to Google Sheets automatically, and sends admin alerts — all running on Render.
-
-| | |
-|:---|:---|
-| **Architecture** | Flask/FastAPI backend, RAG → Page Indexing optimization, Supabase, AiSensy API, Zapier |
-| **Key Engineering** | Vector-based to vector-less RAG migration, multi-language NLP, lead scoring pipeline, webhook integrations, real-time bidirectional messaging |
-| **Impact** | ~60% improved response efficiency, ~70% reduced latency (<2s), 3-language support |
-| **Stack** | `Python` `Flask` `FastAPI` `RAG` `LLM` `Supabase` `AiSensy API` `Zapier` `REST APIs` |
-
-[![Live Demo](https://img.shields.io/badge/Try_on_WhatsApp-ARK_Bot-25D366?style=flat-square&logo=whatsapp)](https://wa.me/918062962717?text=Tell%20me%20about%20Ark%20Learning%20Arena)
-[![Repository](https://img.shields.io/badge/Repository-ARK--AI--Bot-161b22?style=flat-square&logo=github)](https://github.com/Ravivarman15)
-
----
-
-### Finx AI — Financial Intelligence System
-
-> **ML-powered platform for financial analysis, prediction, and risk assessment.**
-
-An intelligent finance analytics system that analyzes income, expense, and savings data to generate future cash flow predictions, financial risk scores, and anomaly detection for unusual spending patterns. Built with XGBoost models and a Flask backend.
-
-**Why it matters:** Helps individuals and small businesses understand and optimize financial behavior through AI-driven insights, with automated risk scoring and actionable expense optimization recommendations.
-
-| | |
-|:---|:---|
-| **Architecture** | Flask backend, XGBoost models, MySQL database, Matplotlib visualization |
-| **Key Engineering** | Financial risk scoring engine, anomaly detection pipeline, cash flow prediction models, structured report generation |
-| **Stack** | `Python` `Flask` `XGBoost` `Pandas` `NumPy` `MySQL` `Matplotlib` |
-
-[![Repository](https://img.shields.io/badge/Repository-Finx--AI-161b22?style=flat-square&logo=github)](https://github.com/Ravivarman15)
-
----
-
-### AI-Powered Hospital Platform
-
-> **Full-stack healthcare platform with integrated ML prediction models for heart disease, diabetes, and medicine suggestions.**
-
-A comprehensive hospital management website integrating three ML models — Heart Disease Prediction, Diabetes Prediction, and Personalized Medicine Suggestions. Features appointment booking, patient record management, email notifications, and QR code generation for reports, all served through a Flask backend.
-
-| | |
-|:---|:---|
-| **Stack** | `Python` `Flask` `Scikit-learn` `HTML/CSS/JS` `Pandas` `NumPy` |
-
-[![Repository](https://img.shields.io/badge/Repository-Hospital--AI-161b22?style=flat-square&logo=github)](https://github.com/Ravivarman15)
-
----
-
-### Loan Prediction System — Datathon-Winning ML Application
-
-> **1st Place Winner — TransOrg Analytics Datathon. End-to-end ML web application with real-time prediction and analytics dashboards.**
-
-A multi-page Streamlit web application featuring Home, Prediction, Insights, and About modules. Built an end-to-end ML pipeline on Kaggle financial datasets — data preprocessing, missing value handling, feature engineering, encoding, and model evaluation. Implemented and optimized **Random Forest, Decision Tree, and XGBoost** classifiers, achieving high prediction accuracy.
-
-**Why it matters:** Won 1st place by delivering a scalable predictive analytics solution. Features a real-time prediction interface for instant loan eligibility results and dynamic Power BI + Streamlit analytics dashboards visualizing applicant trends, approval distributions, and business insights.
-
-| | |
-|:---|:---|
-| **Architecture** | Multi-page Streamlit app, Scikit-learn/XGBoost models, Power BI dashboards |
-| **Key Engineering** | End-to-end ML pipeline, feature engineering on financial data, multi-algorithm comparison, interactive real-time prediction UI |
-| **Recognition** | **1st Place — TransOrg Analytics Datathon** |
-| **Stack** | `Python` `Scikit-learn` `XGBoost` `Streamlit` `Power BI` `Pandas` `NumPy` |
-
-[![Repository](https://img.shields.io/badge/Repository-Loan--Prediction-161b22?style=flat-square&logo=github)](https://github.com/Ravivarman15)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-agentiqai.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://agentiqai.vercel.app/)
+[![Repository](https://img.shields.io/badge/Source_Code-AgentIQ--AI-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravivarman15/AgentIQ-AI)
 
 ---
 
 <details>
-<summary><b>More Projects</b></summary>
+<summary><h3>View All Projects →</h3></summary>
 <br/>
 
-| Project | Description | Tech |
+#### ARK AI Bot — Production RAG WhatsApp Automation `DEPLOYED`
+
+> Built at ARK Learning Arena. Live 24/7 chatbot automating admissions via WhatsApp.
+
+| | |
+|:---|:---|
+| **What** | RAG-based WhatsApp chatbot with lead management pipeline |
+| **Impact** | ~60% improved response efficiency, ~70% reduced latency (<2s), 3-language support |
+| **How** | Migrated vector-based RAG → page-index retrieval. AiSensy API + Zapier automation |
+| **Stack** | `Python` `Flask` `FastAPI` `RAG` `LLM` `Supabase` `Zapier` |
+
+[![Try It](https://img.shields.io/badge/Try_on_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918062962717?text=Tell%20me%20about%20Ark%20Learning%20Arena)
+
+---
+
+#### Loan Prediction System — 🏆 Datathon Winner (1st Place) `DEPLOYED`
+
+> TransOrg Analytics Datathon. Multi-page Streamlit app with real-time prediction + Power BI dashboards.
+
+| | |
+|:---|:---|
+| **What** | End-to-end ML pipeline: preprocessing → feature engineering → multi-algorithm comparison → deployment |
+| **Models** | Random Forest, Decision Tree, XGBoost |
+| **Recognition** | **1st Place — TransOrg Analytics Datathon** |
+| **Stack** | `Python` `Scikit-learn` `XGBoost` `Streamlit` `Power BI` |
+
+---
+
+#### Finx AI — Financial Intelligence System
+
+> ML-powered finance analytics: cash flow prediction, risk scoring, anomaly detection.
+
+| | |
+|:---|:---|
+| **What** | Income/expense analysis → future predictions → risk scores → optimization recommendations |
+| **Stack** | `Python` `Flask` `XGBoost` `MySQL` `Matplotlib` |
+
+---
+
+#### AI-Powered Hospital Platform
+
+> Healthcare platform with 3 integrated ML models: heart disease, diabetes prediction, medicine suggestions.
+
+| | |
+|:---|:---|
+| **Stack** | `Python` `Flask` `Scikit-learn` `HTML/CSS/JS` |
+
+---
+
+#### Other Projects
+
+| Project | Domain | Tech |
 |:---|:---|:---|
-| **Heart Disease Prediction** | ML system analyzing patient health data to assess heart disease risk | Python, Flask, Scikit-learn |
-| **Roosman Sales Prediction** | Forecasting future sales using historical data and seasonal patterns | Python, Flask, Scikit-learn |
-| **Australia Weather Prediction** | Kaggle competition — binary classification to predict rainfall | Python, Scikit-learn, Pandas |
-| **Sales Performance Dashboard** | Interactive Power BI dashboard for multi-country sales analysis | Power BI, DAX, Excel |
-| **Live Weather Dashboard** | Real-time weather monitoring across Indian cities via Weather API | Python, Power BI, APIs |
+| **Heart Disease Prediction** | Healthcare | Python, Flask, Scikit-learn |
+| **Roosman Sales Prediction** | Retail | Python, Flask, Scikit-learn |
+| **Australia Weather Prediction** | Kaggle | Python, Scikit-learn, Pandas |
+| **Sales Performance Dashboard** | Business Intelligence | Power BI, DAX, Excel |
+| **Live Weather Dashboard** | Weather Analytics | Python, Power BI, APIs |
 
 </details>
 
@@ -229,6 +317,10 @@ A multi-page Streamlit web application featuring Home, Prediction, Insights, and
 <!-- Why Hire Me -->
 ## Why Hire Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```
 Most fresh graduates build Jupyter notebook projects.
 I build deployed applications that handle real users.
@@ -236,13 +328,36 @@ I build deployed applications that handle real users.
 
 | What I Do | Evidence |
 |:---|:---|
-| **Win competitions** | **1st Place — TransOrg Analytics Datathon** with a production-grade Loan Prediction system |
-| **Build production AI systems** | ARK AI Bot runs 24/7 on WhatsApp — ~60% efficiency gain, ~70% latency reduction |
-| **Design end-to-end ML pipelines** | AgentIQ AI automates data ingestion → preprocessing → training → model selection → reporting, reducing effort by ~70% |
-| **Implement RAG applications** | Built vector-based and vector-less RAG systems with LangChain, ChromaDB, and page indexing |
-| **Develop robust APIs** | FastAPI/Flask backends powering multiple production systems with REST endpoints |
-| **Automate business workflows** | Zapier integrations, lead scoring pipelines, multi-language support, automated reporting |
-| **Deploy and maintain systems** | Applications running on Render, Vercel, Streamlit with cloud infrastructure management |
+| **Win competitions** | **1st Place — TransOrg Analytics Datathon** |
+| **Build production AI** | ARK AI Bot — ~60% efficiency, ~70% latency reduction |
+| **End-to-end ML pipelines** | AgentIQ AI — ~70% effort reduction via AutoML |
+| **RAG systems** | Vector-based & vector-less RAG with LangChain |
+| **Data-driven decisions** | Power BI dashboards, KPI reporting, EDA |
+| **Statistical modeling** | Hypothesis testing, predictive modeling, feature engineering |
+| **API development** | FastAPI/Flask backends powering production systems |
+| **Deploy & scale** | Render, Vercel, Streamlit deployments |
+
+</td>
+<td width="45%" valign="top">
+
+### At a Glance
+
+```text
+🏆 Datathon Winner (1st Place)
+📊 9.0 CGPA — MCA Data Science
+🤖 3 Production AI Systems Deployed
+📈 8+ ML Models Built & Evaluated
+🔬 6 Industry Domains Covered
+💬 RAG Chatbot — 24/7 Live Users
+📉 ~70% Manual Effort Reduction
+⚡ <2s Response Time (Optimized RAG)
+🌐 3-Language NLP Support
+📋 5+ Certifications (AI/ML/Cloud)
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -316,17 +431,34 @@ I build deployed applications that handle real users.
 <!-- Currently Learning -->
 ## Currently Learning
 
+<table>
+<tr>
+<td width="50%">
+
+**MLOps & Infrastructure**
 ```text
 MLOps          ███████████░░░░░░░░░  In Progress
 Docker         ██████████░░░░░░░░░░  In Progress
 Kubernetes     ██████░░░░░░░░░░░░░░  Getting Started
+LLMOps         ██████░░░░░░░░░░░░░░  Getting Started
+```
+
+</td>
+<td width="50%">
+
+**AI & Cloud**
+```text
 LangGraph      █████████░░░░░░░░░░░  In Progress
 Agentic AI     █████████░░░░░░░░░░░  In Progress
-LLMOps         ██████░░░░░░░░░░░░░░  Getting Started
 Azure AI       ██████░░░░░░░░░░░░░░  Getting Started
-AWS AI         █████░░░░░░░░░░░░░░░  Planned
+AWS SageMaker  █████░░░░░░░░░░░░░░░  Planned
 Vector DBs     ████████████████░░░░  Proficient
+Adv. NLP       ████████████░░░░░░░░  In Progress
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
