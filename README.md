@@ -164,19 +164,16 @@ Currently working as a **Data Science & Generative AI Intern** at **ARK Learning
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Methodology
-
-```
-┌─────────────────────────────────────┐
-│  ① Problem Definition & Scoping    │
-│  ② Data Collection & Cleaning      │
-│  ③ Exploratory Data Analysis       │
-│  ④ Feature Engineering             │
-│  ⑤ Model Selection & Training      │
-│  ⑥ Evaluation & Hyperparameter     │
-│  ⑦ Deployment & Monitoring         │
-└─────────────────────────────────────┘
-```
+### 📊 Data Science Lifecycle
+<table>
+<tr><td><b>1. 🎯 Problem Definition</b><br>Scoping business objectives & KPIs</td></tr>
+<tr><td><b>2. 🧹 Data Preparation</b><br>Ingestion, cleaning, & outlier handling</td></tr>
+<tr><td><b>3. 🔍 Exploratory Data Analysis</b><br>Univariate/multivariate correlation analysis</td></tr>
+<tr><td><b>4. ⚙️ Feature Engineering</b><br>Selection, encoding, scaling & PCA</td></tr>
+<tr><td><b>5. 🤖 Model Development</b><br>Multi-model training & AutoML selection</td></tr>
+<tr><td><b>6. 📈 Tuning & Evaluation</b><br>Cross-validation & metric optimization</td></tr>
+<tr><td><b>7. 🚀 Deployment</b><br>FastAPI endpoints & dashboard reporting</td></tr>
+</table>
 
 #### Statistical Methods
 - Hypothesis Testing (t-test, chi-square, ANOVA)
@@ -267,32 +264,14 @@ Upload any dataset and the platform automatically:
 </td>
 <td width="45%" valign="top">
 
-#### Architecture
-```
-         ┌──────────────┐
-         │  User Upload  │
-         └──────┬───────┘
-                ↓
-    ┌───────────────────────┐
-    │  Dataset Profiling    │
-    │  + Feature Selection  │
-    └───────────┬───────────┘
-                ↓
-    ┌───────────────────────┐
-    │  PyCaret AutoML       │
-    │  Model Comparison     │
-    │  Best Model Selection │
-    └───────────┬───────────┘
-                ↓
-    ┌───────────────────────┐
-    │  LangChain + ChromaDB │
-    │  RAG Chat Interface   │
-    └───────────┬───────────┘
-                ↓
-    ┌───────────────────────┐
-    │  Reports & Dashboards │
-    └───────────────────────┘
-```
+#### ⚙️ Data Pipeline Workflow
+<table>
+<tr><td><b>Step 1: Dataset Ingestion</b><br>📁 User uploads CSV, Excel, or JSON</td></tr>
+<tr><td><b>Step 2: Auto-Profiling & EDA</b><br>📊 Statistics & feature selection algorithms</td></tr>
+<tr><td><b>Step 3: AutoML Engine</b><br>⚡ PyCaret compares models to find best metrics</td></tr>
+<tr><td><b>Step 4: RAG Chat Interface</b><br>💬 LangChain + ChromaDB semantic querying</td></tr>
+<tr><td><b>Step 5: Automated Delivery</b><br>📄 PDF/PPT reports + live visualization</td></tr>
+</table>
 
 </td>
 </tr>
@@ -397,22 +376,19 @@ I build deployed systems that handle real users.
 
 <div align="center">
 
-### Quick Stats
-
-```
- ┌────────────────────────────────┐
- │  🏆  Datathon Winner (1st)     │
- │  📊  9.0 CGPA — MCA Data Sci   │
- │  🤖  3 Production AI Systems   │
- │  📈  8+ ML Models Deployed     │
- │  🔬  6 Industry Domains        │
- │  💬  RAG Bot — 24/7 Live       │
- │  📉  ~70% Effort Reduction     │
- │  ⚡  <2s Response Time          │
- │  🌐  3-Language NLP            │
- │  📋  5+ Certifications         │
- └────────────────────────────────┘
-```
+### ⚡ Quick Statistics
+<table>
+<tr><td>🏆 <b>Datathon Winner</b> (1st Place)</td></tr>
+<tr><td>📊 <b>9.0 CGPA</b> — MCA Data Science</td></tr>
+<tr><td>🤖 <b>3 Production AI Systems</b> Deployed</td></tr>
+<tr><td>📈 <b>8+ ML Models</b> Built & Evaluated</td></tr>
+<tr><td>🔬 <b>6 Industry Domains</b> Covered</td></tr>
+<tr><td>💬 <b>RAG WhatsApp Bot</b> — 24/7 Live Traffic</td></tr>
+<tr><td>📉 <b>~70% Effort Reduction</b> (AutoML)</td></tr>
+<tr><td>⚡ <b><2s Response Time</b> (Optimized RAG)</td></tr>
+<tr><td>🌐 <b>3-Language</b> NLP Support</td></tr>
+<tr><td>📋 <b>5+ Professional Certifications</b></td></tr>
+</table>
 
 </div>
 
